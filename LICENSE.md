@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with automatic Alfred for macOS Workflow | privacy-protection + quick-launch, the #1 workflow. Includes privacy-protection and quick-launch for a smoother
 
 
 
